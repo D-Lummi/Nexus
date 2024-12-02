@@ -1,6 +1,6 @@
 {
 	"Name": "Nexus",
-	"Version": 1733093251,
+	"Version": 1733103489,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -477,20 +477,12 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				73,
-				77,
-				69,
-				71,
-				72,
-				60,
-				61,
-				62,
-				63,
-				64,
-				65,
-				66,
-				67,
-				68
+				70,
+				74,
+				75,
+				76,
+				78,
+				79
 			],
 			"ItemWhitelist": [
 				5,
